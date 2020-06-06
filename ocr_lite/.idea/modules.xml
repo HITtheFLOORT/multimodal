@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bilibili-smallvideo-master/.idea/bilibili-smallvideo-master.iml" filepath="$PROJECT_DIR$/../bilibili-smallvideo-master/.idea/bilibili-smallvideo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/chineseocr_lite-master.iml" filepath="$PROJECT_DIR$/.idea/chineseocr_lite-master.iml" />
+    </modules>
+  </component>
+</project>

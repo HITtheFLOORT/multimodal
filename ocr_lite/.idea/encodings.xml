@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1.mp4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2.mp4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acgORact.hdf5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/animalORitemORpersonORview.hdf5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/catoonORgame.hdf5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_file.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itemORpersonORview.hdf5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processor.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testdata" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/train.csv" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
